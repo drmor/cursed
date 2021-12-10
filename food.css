@@ -1,0 +1,92 @@
+html{
+	height: 100%;
+}
+body{
+	margin: 0;
+	background: url(https://img1.akspic.ru/originals/0/3/7/6/5/156730-uprazhnenie-fitness_centr-fizicheskaya_podgotovka-silovye_trenirovki-sustav-1920x1080.jpg);
+	background-attachment: fixed;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+p{ 
+	border-color: #1E90FF;
+	border-style: solid;
+	padding: 10px;
+	width: 300px;
+	border-radius: 7px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p:hover{
+	border-color: white;
+	transition: 0.3s;
+}
+.scale{
+	transition: 1s;
+	margin-top: -5%;
+}
+.scale:hover{
+	transform: scale(1.2);
+}
+.info{
+	margin-top: 25%;
+}
+.fon1{
+	background: #25292b;
+	color: white;
+	font-family: courier;
+	text-align: center;
+	font-size: 20px;
+	padding: 100px;
+}
+.fon_s{
+	background: #191c1e;
+	color: white;
+	font-family: courier;
+	font-size: 20px;
+	padding: 100px;
+}
+.fon2{
+	background-color: #F0FFFF;
+	font-family: courier;
+	text-align: center;
+	padding: 50px;
+	font-size: 20px;
+	color: white;
+}
+.fon3{
+	background: #c43002;
+	color: white;
+	font-family: courier;
+	text-align: center;
+	font-size: 35px;
+	padding: 100px;
+}
+.i{
+	color: white;
+	margin: 30px;
+	font-family: arial;
+}
+.menu{
+	text-align: center;
+	color: white;
+	margin-top: 2%;
+	font-size: 20px;
+}
+.osn{
+	text-align: center;
+	margin-top: 15%;
+}
+.w{
+	font-size: 50px;
+	color: white;
+	font-family: arial black;
+}
+.y{
+	font-size: 50px;
+	background: #DCDCDC;
+	font-family: arial black;
+	padding: 5px;
+}
